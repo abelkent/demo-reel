@@ -1,2 +1,2 @@
 # demo-reel
-Collection of my previous work
+This is a collection of some of my previous work for an example of my coding style and ability
